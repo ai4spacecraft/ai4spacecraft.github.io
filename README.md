@@ -1,5 +1,5 @@
 ## ’D*** it... I’m an engineer, not a doctor!’
-# First workshop on AI for Spacecraft Longevity
+# First International Workshop on AI for Spacecraft Longevity
 
 ### An IJCAI 2021 Workshop
 
