@@ -1,1 +1,46 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: 'AI for Spacecraft Longevity'
+lead: 'First International Workshop on'
+title2: 'D*** it… I’m an engineer, not a doctor!'
+description: 'IJCAI 2021 Workshop'
+url: 'http://joshgerdes.com/jekyll-uno'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+# disable_landing_page: true
+
+author:
+  name: 'Nikola Simidjievski'
+  email: 
+  twitter_username: 
+  facebook_username: 
+  github_username: 
+  linkedin_username:  
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

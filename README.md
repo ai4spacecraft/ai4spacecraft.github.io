@@ -1,13 +1,54 @@
-## ’D*** it... I’m an engineer, not a doctor!’
-# First International Workshop on AI for Spacecraft Longevity
+# jekyll-uno
 
-### An IJCAI 2021 Workshop
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
+> :warning:
+  This theme requires ruby and rubygems installed
 
-The rapid technological developments in space exploration missions yield massive amounts of complex heterogeneous scientific and housekeeping data (images, spectrometry, telemetry and others). In turn, these data are utilized for tackling two major types of challenges (1) data-to-discovery and (2) data-to-operations. The former includes modeling and forecasting space weather, mapping planet surfaces, galaxy profiling, identifying exoplanets and their environment, as well as analyzing astrobiology data. The latter refers to challenges that include autonomous spacecraft route planning, optimal spacecraft operations (forecasting and decision making), anomaly detection and diagnosis, mission planning as well as analysis of the spacecraft configuration flow. Recent trends in AI, and in particular machine learning, leverage the rapid technological developments in computational hardware and high-throughput data. However, in this context of space research, AI has been mostly used to address data-to-discovery challenges. 
+### Features
 
-The data-to-operation challenges, on the other hand, while being equally significant have received less attention from the AI community. In particular, data-to-operation challenges concern remote spacecraft that operate under limited computational constraints in harsh environments, equipped with decaying batteries and components (e.g., processors and memory) lagging decades behind the current state-of-the-art technology. Moreover, they are associated with high-cost of failure, where repairs are impossible, diagnosis limited and emergency reaction times (due to communication lag) long and unpredictable. 
+* Clean layout
+* Resposive layout
+* Pagination
+* Syntax highlighting
+* Social links
+* Tags listing page
+* Categories listing page
+* Google Analytics integration
+* Disqus integration
 
-Therefore there is great potential for state-of-the-art AI approaches - ranging from mining structured data, data streams and learning representations, to developing novel heuristics search algorithms, to designing efficient approaches that can operate on limited-capacity hardware. The potential benefits include estimating the current and predicting the future states (such as power consumption, thermal radiation, position etc.) of a spacecraft thus allowing for autonomous decisions and seamless operation;  detecting anomalous spacecraft behaviour in ongoing missions; mission operation planning; optimization of instrument operation;  decision support and what-if analyses; explainable AI for operator empowerment etc.
+---
 
-The goal of this workshop is to bring attention to these challenges and offer a platform for discussing efforts and solutions from different communities across the different AI disciplines. By bringing together researchers and practitioners from different AI communities, the workshop will present the potential of recent AI approaches in the context of spacecraft monitoring and operations, mission planning and management, autonomous spacecraft operations and explainable AI. More importantly, will highlight the overarching goals and challenges of analysing large volumes of spacecraft housekeeping data as well as designing methods that operate on limited-capacity hardware in high-radiation environments.  We expect this workshop to be a seed for a new community, which will bring together different AI disciplines and build on top of these interactions to advance the development of novel AI approaches and applications for space operations.
+### Install and Test
+
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `bundle exec jekyll serve --watch`
+
+Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+
+If you would like to run without using the `github-pages` gem, update your Gemfile to the following:
+
+```
+source 'https://rubygems.org'
+gem 'jekyll-paginate'
+gem 'jekyll-watch'
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
+```
+---
+
+### Demo and Download
+
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+
+![jekyll-uno - free Jekyll theme](/screenshot.png)
+
+---
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).
