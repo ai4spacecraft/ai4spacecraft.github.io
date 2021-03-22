@@ -40,16 +40,15 @@ The submitted manuscript must be a single PDF document, describing theoretical a
 Submitted papers must be formatted according to the IJCAI guidelines and submitted electronically through the submission link provided above. Submissions are NOT anonymous, therefore should include author names and affiliations.
 
 
-Submissions are limitted to **3 pages** for the main text (including figures but excluding references), and up to 2 additional pages for references. For formatting guidelines and document templates, please refer to the [author kit](http://www.ijcai.org/authors_kit).
+Submissions are limited to **3 pages** for the main text (including figures but excluding references), and up to 2 additional pages for references. For formatting guidelines and document templates, please refer to the [author kit](http://www.ijcai.org/authors_kit).
 
 
-The workshop will **not** include a formal published proceedings, but accepted papers will be made available on the webpage (upon authors' consent), along with the the workshop program. 
+The workshop will **not** include a formal published proceedings, but accepted papers will be made available on the webpage (upon authors' consent), along with the workshop program. 
 
 
-Papers will be peer-reviewed by program committee members. Selection criteria include originality, innovation, applicability and potential benefits of the resulting system. Note that there will be no rebuttal phase. Accepted papers will be selected for oral and spotlight presentation base on peer review. All accepted papers will be invited for a poster presentation.
+Papers will be peer-reviewed by program committee members. Selection criteria include originality, innovation, applicability and potential benefits of the resulting system. Note that there will be no rebuttal phase. Accepted papers will be selected for oral and spotlight presentation based on peer review. All accepted papers will be invited for a poster presentation.
 
 At least one author of each accepted paper is required to attend the workshop to present the work (subject to possible COVID-19 considerations as determined by the IJCAI2021 organization). Authors will be required to agree to this requirement at the time of submission. No email or fax submissions will be accepted. Notification of receipt of an electronically submitted paper will be emailed to the designated contact author soon after receipt. If there are problems with the electronic submission, the workshop organizers will contact the designated author by email.
-
 
 
 ### Confidentiality Policy
