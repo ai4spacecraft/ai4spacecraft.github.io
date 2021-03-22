@@ -9,4 +9,6 @@ title:  "Organization"
 - Luke Lucas, Mars Express, Mission Planning & Spacecraft Operations, European Space Agency, Germany
 - Ljupčo Todorovski, University of Ljubljana, Slovenia
 
-
+### Primary contacts
+- Nikola Simidjievski: ns779@cam.ac.uk
+- Dragi Kocev: dragi.kocev.ijs.si
