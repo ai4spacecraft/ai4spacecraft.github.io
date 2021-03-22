@@ -31,7 +31,7 @@ With potential applications in:
 - Human-centric and explainable AI for operator empowerment
 
 
-# Submission guidelines
+## Submission guidelines
 
 Submission site: TBA
 
@@ -43,8 +43,8 @@ At least one author of each accepted paper is required to attend the workshop to
 
 Papers will be peer-reviewed by program committee members. Selection criteria include originality, innovation, applicability and potential benefits of the resulting system. Note that there will be no rebuttal phase.
 
-## Confidentiality Policy
+### Confidentiality Policy
 All submissions will be treated in strict confidence until the publication date.
 
-## Conflict of Interest Policy
+### Conflict of Interest Policy
 All people involved in the review process adhere to the IJCAI conflict of interest policy. Details can be found [here]( http://ijcai.org/).
