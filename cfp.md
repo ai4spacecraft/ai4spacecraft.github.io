@@ -33,7 +33,7 @@ With potential applications in:
 
 ## Submission guidelines
 
-Submission site: TBA
+[**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft)
 
 The submitted manuscript must be a single PDF document, describing theoretical and/or empirical findings as well as novel approaches to specific problems. We particularly encourage submissions with a potential to inspire the research community by introducing new and relevant problems, concepts and ideas, even if the work is at an early stage of development.
 
