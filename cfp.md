@@ -33,14 +33,14 @@ With potential applications in:
 
 ## Submission guidelines
 
-[**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft)
+[**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft){:target="_blank"}
 
 The submitted manuscript must be a single PDF document, describing theoretical and/or empirical findings as well as novel approaches to specific problems. We particularly encourage submissions with a potential to inspire the research community by introducing new and relevant problems, concepts and ideas, even if the work is at an early stage of development.
 
 Submitted papers must be formatted according to the IJCAI guidelines and submitted electronically through the submission link provided above. Submissions are NOT anonymous, therefore should include author names and affiliations.
 
 
-Submissions are limited to **3 pages** for the main text (including figures but excluding references), and up to 2 additional pages for references. For formatting guidelines and document templates, please refer to the [author kit](http://www.ijcai.org/authors_kit).
+Submissions are limited to **3 pages** for the main text (including figures but excluding references), and up to 2 additional pages for references. For formatting guidelines and document templates, please refer to the [author kit](http://www.ijcai.org/authors_kit){:target="_blank"}.
 
 
 The workshop will **not** include a formal published proceedings, but accepted papers will be made available on the webpage (upon authors' consent), along with the workshop program. 
@@ -55,4 +55,4 @@ At least one author of each accepted paper is required to attend the workshop to
 All submissions will be treated in strict confidence until the publication date.
 
 ### Conflict of Interest Policy
-All people involved in the review process adhere to the IJCAI conflict of interest policy. Details can be found [here]( http://ijcai.org/).
+All people involved in the review process adhere to the IJCAI conflict of interest policy. Details can be found [here]( http://ijcai.org/){:target="_blank"}.
