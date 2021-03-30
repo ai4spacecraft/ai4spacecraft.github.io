@@ -30,6 +30,8 @@ With potential applications in:
 - Autonomous spacecraft operations
 - Human-centric and explainable AI for operator empowerment
 
+We sollicit submissions focused on peaceful advancing of humanity, support of the United Nations Sustainable Development Goals and space sustainability.
+
 
 ## Important dates
 
