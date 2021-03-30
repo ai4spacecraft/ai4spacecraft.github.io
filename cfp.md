@@ -33,22 +33,25 @@ With potential applications in:
 
 ## Important dates
 
-Paper submission due: May 9th, 2021 (AoE)
-Notification of acceptance: May 23th, 2021 (AoE)
-Early registration deadline for IJCAI: May 25th, 2021
-Camera-ready versions due: June 15th, 2018
+*Paper submission due*: May 9th, 2021 (AoE)
 
-Workshop: August 21, 22 or 23, 2021
+*Notification of acceptance*: May 23th, 2021 (AoE)
+
+*Early registration deadline for IJCAI*: May 25th, 2021
+
+*Camera-ready versions due*: June 15th, 2018
+
+**_Workshop_**: August 21, 22 or 23, 2021.
 The exact date will be communicated after the announcment of the agenda by IJCAI 2021.
 
 
 ## Submission guidelines
 
-[**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft){:target="_blank"}
+<!-- [**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft){:target="_blank"} -->
 
 The submitted manuscript must be a single PDF document, describing theoretical and/or empirical findings as well as novel approaches to specific problems. We particularly encourage submissions with a potential to inspire the research community by introducing new and relevant problems, concepts and ideas, even if the work is at an early stage of development.
 
-Submitted papers must be formatted according to the IJCAI guidelines and submitted electronically through the submission link provided above. Submissions are NOT anonymous, therefore should include author names and affiliations.
+Submitted papers must be formatted according to the IJCAI guidelines and submitted electronically through the [**EasyChair submission system**](https://easychair.org/my/conference?conf=ai4spacecraft){:target="_blank"}. Submissions are NOT anonymous, therefore should include author names and affiliations.
 
 
 Submissions are limited to **3 pages** for the main text (including figures but excluding references), and up to 2 additional pages for references. For formatting guidelines and document templates, please refer to the [author kit](http://www.ijcai.org/authors_kit){:target="_blank"}.
