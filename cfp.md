@@ -31,6 +31,17 @@ With potential applications in:
 - Human-centric and explainable AI for operator empowerment
 
 
+## Important dates
+
+Paper submission due: May 9th, 2021 (AoE)
+Notification of acceptance: May 23th, 2021 (AoE)
+Early registration deadline for IJCAI: May 25th, 2021
+Camera-ready versions due: June 15th, 2018
+
+Workshop: August 21, 22 or 23, 2021
+The exact date will be communicated after the announcment of the agenda by IJCAI 2021.
+
+
 ## Submission guidelines
 
 [**Submission site**](https://easychair.org/my/conference?conf=ai4spacecraft){:target="_blank"}
