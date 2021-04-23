@@ -9,6 +9,20 @@ title:  "Organization"
 - [Luke Lucas](https://www.linkedin.com/in/luke-lucas-a1867a42/){:target="_blank"}, Mars Express, Mission Planning & Spacecraft Operations, European Space Agency, Germany
 - [Ljupčo Todorovski](http://kt.ijs.si/~ljupco/){:target="_blank"}, University of Ljubljana, Slovenia
 
+### Program Committee (to be updated)
+
+- Pance Panov, Jozef Stefan Institute, Slovenia
+- Jose Martinez-Heras, European Space Agency, Germany
+- Matej Petkovic, Jozef Stefan Institute, Slovenia
+- Paul Scherer, University of Cambridge, United Kingdom
+- Ana Kostovska, Jozef Stefan Institute, Slovenia
+- Aleksandra Rashkovska Koceva, Jozef Stefan Institute, Slovenia
+- Redouane Boumghar, Libre Space Foundation, Greece
+- Ben Day, University of Cambridge, United Kingdom
+- Tim Finn, European Space Agency, Germany
+- Takehisa Yairi, University of Tokyo, Japan
+
+
 ### Contact
 
-**ai4spacecraft@gmail.com**
+**ai4spacecraft+IJCAI2021@gmail.com**
