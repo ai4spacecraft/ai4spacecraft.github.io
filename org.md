@@ -21,6 +21,8 @@ title:  "Organization"
 - Ben Day, University of Cambridge, United Kingdom
 - Tim Finn, European Space Agency, Germany
 - Takehisa Yairi, University of Tokyo, Japan
+- Daniela Taubert, LSE Space GmbH (European Space Operations Centre),European Space Agency, Germany
+- Kiri Wagstaff, Jet Propulsion Laboratory, California Institute of Technology, USA
 
 
 ### Contact
