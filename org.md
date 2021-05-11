@@ -6,7 +6,7 @@ title:  "Organization"
 
 - [Nikola Simidjievski](https://simidjievskin.github.io/){:target="_blank"}, University of Cambridge, United Kingdom
 - [Dragi Kocev](http://kt.ijs.si/DragiKocev){:target="_blank"}, Jožef Stefan Institute, Slovenia
-- [Luke Lucas](https://www.linkedin.com/in/luke-lucas-a1867a42/){:target="_blank"}, Mars Express, Mission Planning & Spacecraft Operations, European Space Agency, Germany
+- [Luke Lucas](https://www.linkedin.com/in/luke-lucas-a1867a42/){:target="_blank"}, Mars Express, Mission Planning & Spacecraft Operations, LSE Space GmbH, ESOC - European Space Operation Centre, Germany
 - [Ljupčo Todorovski](http://kt.ijs.si/~ljupco/){:target="_blank"}, University of Ljubljana, Slovenia
 
 ### Program Committee (to be updated)
