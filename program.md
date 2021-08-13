@@ -22,6 +22,7 @@ The time listed here are CEST (UTC+02:00)
 
 | 18.00-18.15 |  Break |
 | ------- |  :-|
+| | |
 
 | 18.15-19.45   | Session 2 (Chair: Ljupčo Todorovski)|
 | ------- |  :-|
