@@ -19,8 +19,9 @@ The time listed here are CEST (UTC+02:00)
 | 16.45-17.10 |  Supervised or Unsupervised Learning? A Different Perspective on Data-driven Health Monitoring System for Satellite Operators <br> *Chun Fui Liew, Takehisa Yairi and Yusuke Fukushima*|
 | 17.10-17.35 |  GalaxAI: Machine learning toolbox for interpretable analysis of spacecraft telemetry data <br> *Ana Kostovska, Matej Petković, Tomaž Stepišnik, Luke Lucas, Timothy Finn, José Antonio Martínez Heras, Panče Panov, Sašo Džeroski, Alessandro Donati, Nikola Simidjievski and Dragi Kocev*|
 | 17.35-18.00 |  Conjunction Data Messages behave as a Poisson Process <br> *Francisco Caldas, Cláudia Soares, Cláudia Nunes, Marta Guimarães, Mariana Filipe and Rodrigo Ventura*|
-| 18.00-18.15 |  Break |
 
+| 18.00-18.15 |  Break |
+| | |
 
 | 18.15-20.10   | Session 2 (Chair: Ljupčo Todorovski)|
 | ------- |  :-|
