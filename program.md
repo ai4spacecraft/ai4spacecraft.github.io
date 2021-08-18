@@ -6,8 +6,11 @@ title:  "Program"
 
 ### Keynote speakers
 
-- **Daniel Gaines**, Jet Propulsion Laboratory, California Institute of Technology, USA
-- **Kate Symonds**, ESTEC, European Space Agency, The Netherlands
+- **Kate Symonds**, ESTEC, European Space Agency, The Netherlands    
+"_The Post Launch Support Office (PLSO) - What does the Post Launch Support Office do and how could the application of AI help?_" 
+- **Daniel Gaines**, Jet Propulsion Laboratory, California Institute of Technology, USA   
+"_Autonomy Challenges and Solutions for Planetary Exploration Rovers_"
+
 
 ### Program of the workshop
 
