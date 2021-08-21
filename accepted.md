@@ -15,3 +15,5 @@ title:  "List of accepted papers"
 - **Artificial Intelligence Architecture for the Solar Gravity Lens Mission**, Jon Neff and Henry Helvajian
 
 
+### The papers are availble [here](https://drive.google.com/drive/folders/1AUwPZOYw6zuyX0dKr0flqMmEMjcI6Zm4?usp=sharing)
+
