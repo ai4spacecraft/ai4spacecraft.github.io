@@ -6,6 +6,7 @@ title:  "Program"
 
 
 
+
 ### Keynote speakers
 
 - **Kate Symonds**, ESTEC, European Space Agency, The Netherlands    
@@ -43,3 +44,7 @@ The time listed here are CEST (UTC+02:00)
 | 20.55-21.20 |  Artificial Intelligence Architecture for the Solar Gravity Lens Mission <br> *Jon Neff and Henry Helvajian* [[**PAPER**]](papers/AI4Spacecraft_paper_9.pdf)[[**TALK**]](https://youtu.be/f6GSjSs6wxA)|
 | 21.20-21.45 |  Deep Reinforcement Learning for Fault Adaptive Control <br> *Luke Bhan, Marcos Quinones-Grueiro and Gautam Biswas* [[**PAPER**]](papers/AI4Spacecraft_paper_4.pdf)[[**TALK**]](https://youtu.be/XG1W9BAk01w)|
 | 21.45-22.00 |  Summary discussion and closing remarks|
+
+### Video recordings
+
+All the recorded talks are available in this [playlist](https://www.youtube.com/playlist?list=PLR_rUVfiQdbWM7QKpv24zw9PpNv7zO32D).

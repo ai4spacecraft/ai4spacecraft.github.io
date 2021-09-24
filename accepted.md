@@ -17,3 +17,5 @@ title:  "List of accepted papers"
 
 ### The papers are availble [here](https://drive.google.com/drive/folders/1AUwPZOYw6zuyX0dKr0flqMmEMjcI6Zm4?usp=sharing)
 
+### All the recorded talks are available in this [playlist](https://www.youtube.com/playlist?list=PLR_rUVfiQdbWM7QKpv24zw9PpNv7zO32D).
+
